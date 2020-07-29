@@ -1,0 +1,15 @@
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.psacer {
+    flex: 1 1 auto
+}
